@@ -1,0 +1,9 @@
+.container-game {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.score-list {
+  list-style-type: none;
+}

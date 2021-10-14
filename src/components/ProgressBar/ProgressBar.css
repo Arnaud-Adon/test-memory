@@ -1,0 +1,49 @@
+.container-progress-bar {
+  position: relative;
+  margin: 50px 0;
+  width: 900px;
+  height: 20px;
+  background: silver;
+}
+
+.progress-bar-content {
+  position: relative;
+  height: 20px;
+  background: red;
+}
+
+.in-progress {
+  animation-duration: 60s;
+  animation-name: progress;
+}
+
+.paused {
+  animation-play-state: paused;
+}
+
+.restart {
+  width: 0;
+}
+
+.reload {
+  animation-duration: 60s;
+  animation-name: progress;
+}
+
+@keyframes progress {
+  from {
+    width: 0;
+  }
+  25% {
+    width: 25%;
+  }
+  50% {
+    width: 50%;
+  }
+  75% {
+    width: 75%;
+  }
+  to {
+    width: 100%;
+  }
+}

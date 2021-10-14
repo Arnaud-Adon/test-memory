@@ -1,0 +1,20 @@
+.container-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px !important;
+  height: 100px !important;
+  border: 1px solid #000;
+  background-color: aquamarine;
+  /* transition: transform 0.5s;
+  transform-style: preserve-3d;
+  transform: rotateY(180deg); */
+}
+
+.bad-answer {
+  background: tomato;
+}
+
+.good-answer {
+  background: yellowgreen;
+}
