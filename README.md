@@ -5,6 +5,9 @@
 
 Find all the card pairs within the time limit
 
+- list of best times
+- start again if time runs out
+
 <img width="1361" alt="Capture d’écran 2021-10-14 à 07 08 09" src="https://user-images.githubusercontent.com/17828383/137269562-92652a2f-aefa-40d7-9f4d-b762a7050a34.png">
 
 <img width="1338" alt="Capture d’écran 2021-10-14 à 07 08 52" src="https://user-images.githubusercontent.com/17828383/137269653-5c7c882b-0cc9-459d-9d33-0e7737873270.png">
