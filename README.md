@@ -19,7 +19,7 @@ First install server side
 
 Next, install client side
 
-### `npm run install:server`
+### `npm run install:client`
 
 And start with
 
